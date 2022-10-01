@@ -1,0 +1,15 @@
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.SuggestedBindingRedirects.cache
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+D:\arer\ilkprj\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form3.resources
